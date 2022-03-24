@@ -1,11 +1,8 @@
 # Traffic-sign-recognition
 
 This project plans to design an IoT-based application for recognizing the traffic signs on the road.
-We ustilied the following list of Cloud instances and signle-board computers hosted at the university of Klagenfurt under tha name of C3 infrastructure: 
+We deployed and tested the application on the following Cloud instances and signle-board computers hosted at the university of Klagenfurt: 
 https://c3.itec.aau.at/index.php/infrastructure/
-
-
-# Resources:
 
 The resources are as follows:
 
