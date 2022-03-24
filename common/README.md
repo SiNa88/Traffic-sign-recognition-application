@@ -1,3 +1,3 @@
 # Message queuing
 
-It utilizes the ZeroMQ tool (in Python scripting language).
+The pieces of codes inherit the ZeroMQ API (https://zeromq.org/languages/python/)
