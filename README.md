@@ -1,4 +1,4 @@
-# Traffic-sign-recognition
+# Traffic-sign-recognition IoT application
 
 This project plans to design an IoT-based application for recognizing the traffic signs on the road.
 We deployed and tested the application on the following Cloud instances and signle-board computers hosted at the university of Klagenfurt: 
